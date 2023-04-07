@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AspiranteDevWeb
-- 👀 I’m interested in  adquirir esperiencia e trabalhar em equipe
--- 💞️ I’m looking to collaborate em projetos de desenvolvimento web em javaScript , usando ReactJs e Node
+- 👀 I’m interested in  gain experiencia working with a team
+-- 💞️ I’m looking to collaborate in javaScript web projects development , using ReactJs e Node
 - 📫 How to reach me ...
 
 <!---
